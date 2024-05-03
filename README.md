@@ -17,5 +17,5 @@ Takes in BRENDA's entire JSON file and outputs a file that is just EC numbers an
 ## Directory_Cleaner
 For use with Joint Genome Institutes Metaganemoic Bin download - iterates through the download and deletes everything that isn't an .faa
 
-## faa_extractor
+## FAA_Extractor
 For use with Joint Genome Institutes Metagenomic Bin Download - iterates through the download and unzips all .tar.gz files. 
