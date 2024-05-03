@@ -13,3 +13,9 @@ Pulls a premade metacyc smart table and gets rid of the STRING THEY PUT IN THE M
 
 ## SPLENDA
 Takes in BRENDA's entire JSON file and outputs a file that is just EC numbers and their Inhibitors. Can be tweaked to output other information stored in the JSON that is on the same key level as inhibitor. 
+
+## Directory_Cleaner
+For use with Joint Genome Institutes Metaganemoic Bin download - iterates through the download and deletes everything that isn't an .faa
+
+## faa_extractor
+For use with Joint Genome Institutes Metagenomic Bin Download - iterates through the download and unzips all .tar.gz files. 
