@@ -19,3 +19,6 @@ For use with Joint Genome Institutes Metaganemoic Bin download - iterates throug
 
 ## FAA_Extractor
 For use with Joint Genome Institutes Metagenomic Bin Download - iterates through the download and unzips all .tar.gz files. 
+
+## EC_Name&num
+Downloads and write to a CSV all Enzyme commission numbers and their common names from the Swiss Bioinformatics Institute. 
